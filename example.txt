@@ -1,0 +1,2 @@
+smiles
+*c1cccc(C)c1N(*)C(=O)C1CCCCN1*
